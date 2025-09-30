@@ -1,8 +1,2 @@
-Hello There...
-
-Notes from Presentation:
-  - Make the ground plane bigger, under the gate driver
-  - Move the ADC decoupling caps next to the c2000
-  - Flip the Decopoling Caps in critical loop to the front of the board
-  - Rerought signals to ACD to the bottom of the board (pull the banna plug up to avoid the Vout)
-
+# Suggested Changes on Issues Tab
+# Check them off if/when they are fixed
